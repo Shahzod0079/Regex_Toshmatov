@@ -1,0 +1,15 @@
+E:\Regex_Toshmatov\obj\Debug\Regex_Toshmatov.csproj.AssemblyReference.cache
+E:\Regex_Toshmatov\obj\Debug\MainWindow.g.cs
+E:\Regex_Toshmatov\obj\Debug\App.g.cs
+E:\Regex_Toshmatov\obj\Debug\Regex_Toshmatov_MarkupCompile.cache
+E:\Regex_Toshmatov\obj\Debug\Regex_Toshmatov_MarkupCompile.lref
+E:\Regex_Toshmatov\bin\Debug\Regex_Toshmatov.exe.config
+E:\Regex_Toshmatov\bin\Debug\Regex_Toshmatov.exe
+E:\Regex_Toshmatov\bin\Debug\Regex_Toshmatov.pdb
+E:\Regex_Toshmatov\obj\Debug\MainWindow.baml
+E:\Regex_Toshmatov\obj\Debug\Regex_Toshmatov.g.resources
+E:\Regex_Toshmatov\obj\Debug\Regex_Toshmatov.Properties.Resources.resources
+E:\Regex_Toshmatov\obj\Debug\Regex_Toshmatov.csproj.GenerateResource.cache
+E:\Regex_Toshmatov\obj\Debug\Regex_Toshmatov.csproj.CoreCompileInputs.cache
+E:\Regex_Toshmatov\obj\Debug\Regex_Toshmatov.exe
+E:\Regex_Toshmatov\obj\Debug\Regex_Toshmatov.pdb
